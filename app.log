@@ -1,0 +1,7 @@
+2024-11-13 15:02:15 [INFO] coffee.Main: Програма стартувала.
+2024-11-13 15:12:46 [INFO] coffee.Main: Програма стартувала.
+2024-11-13 15:18:10 [INFO] coffee.Main: [Інформація] Програма стартувала.
+2024-11-13 15:27:14 [INFO] coffee.Main: [Інформація] Програма стартувала.
+2024-11-13 15:51:35 [INFO] coffee.Main: [Інформація] Програма стартувала.
+2024-11-13 15:52:11 [SEVERE] coffee.Main: [Помилка] Сталася критична помилка: Cannot invoke "coffee.model.QualityParams.getAroma()" because the return value of "coffee.model.CoffeeProduct.getQuality()" is null
+2024-11-13 15:52:11 [SEVERE] coffee.Main: Не вдалося відправити email: Couldn't connect to host, port: smtp.lpnu.ua, 587; timeout -1
